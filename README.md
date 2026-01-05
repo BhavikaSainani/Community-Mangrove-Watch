@@ -1,5 +1,5 @@
-# 🌱 Community Mangrove Watch (Frontend)
-🌱 Community Mangrove Watch – Frontend
+# 🌱 Community Mangrove Watch
+🌱 Community Mangrove Watch
 📌 Overview
 
 Community Mangrove Watch is a web-based platform designed to enable community members to report and monitor incidents affecting mangrove ecosystems. The frontend provides a simple and accessible interface for submitting incident reports and viewing existing reports in real time, while interacting with a backend service through REST APIs.
@@ -92,3 +92,4 @@ Mobile-friendly UI improvements
 Bhavika Sainani
 Frontend Developer
 Master of Science in Information Technology (MSc IT)
+
